@@ -14,3 +14,8 @@ Ensuite l’importance du choix de l’utilisation de l’heuristique Loi De Dem
 ## 2. Graphical Editor
 
 Concernant mon kata, je suis passé au premier étape de ne plus utiliser de fichier. Et vais entammer à appliquer les différentes Design Pattern (State, Strategy, Parameter) et également aux tests.
+
+
+# SeiF-Eddin
+
+JE me suis renseigné sur le pattern Command afin de finir l'automatisation de mon kata, je reflechis toujours au moyen le plus efficace a mettre en place pour l'automatisation.
