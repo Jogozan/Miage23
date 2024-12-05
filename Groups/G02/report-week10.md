@@ -8,3 +8,9 @@ Grâce au séance Practice de la dernière fois, il y a beaucoup de pratique que
 # Seïf-Eddin Bouguerouche
 
 Lors de la dernière scéance j'ai commencé l'automatisation de mon kata, je cherche toujours le moyen le plus optimal pour le faire et j'ai commencé a modifier certains test qui ne sont plus correcte vu que l'automatisation rentre maintenant en compte dans mes tests
+
+
+## Camille BARTHELEMY
+
+Cette semaine, j'ai fini la suite de mon kata. En faisant le dernier refactoring.
+J'ai lu le cours de la semaine sur les interfaces et les types statiques et dynamique.
